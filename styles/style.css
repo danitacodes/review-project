@@ -6,14 +6,16 @@
      }
    
    body {
-     background-color: #64A6BD;
+     background-image: url(./images/pexels-brett-sayles-992734.jpg);
+     background-size: 900px;
+     background-repeat: no-repeat;
      justify-content: center;
      align-items: center;
      display: flex;
      min-height: 100vh;
        }
 .box {
-    background-color: #efefef;
+    background-image: url(./images/pexels-brett-sayles-992734.jpg);
     padding-left: 60px;
     padding: 60px;
 }
